@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Geodex 2.0"
+excerpt: "Short description of portfolio item number 1<br/><img src='images/geodex.png?raw=true'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Software developed at the AGSL to search for paper map sheets from large sets held by the AGSL.
+
+*Original software by Christopher Baruth, version 2 by Stephen Appel and Ben Schroeder*
