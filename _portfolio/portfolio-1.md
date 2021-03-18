@@ -1,6 +1,6 @@
 ---
 title: "Geodex 2.0"
-excerpt: "Short description of portfolio item number 1<br/><img src='images/geodex.png?raw=true'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='images/geodex.png'>"
 collection: portfolio
 ---
 
