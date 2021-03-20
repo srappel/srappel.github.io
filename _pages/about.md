@@ -39,8 +39,3 @@ Affiliations
 * advisor for GIS Club at UWM and the Alpha Mu chapter of Gamma Theta Upsilon
 
 * moderator of the /r/AcademicLibrarians sub-reddit
-
-
-
-
-
