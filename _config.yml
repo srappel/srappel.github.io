@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stephen Appel | UWM"
+title                    : "Stephen Appel"
 title_separator          : "-"
 name                     : &name "Stephen Appel"
 description              : &description "Geospatial Information Specialist, American Geographical Society Library, UW-Milwaukee"
