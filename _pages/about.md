@@ -25,14 +25,14 @@ You can check out my [official UWM profile page](https://uwm.edu/libraries/peopl
 Affiliations
 ======
 
-* NACIS member since 2017
+* [NACIS](www.nacis.org) member since 2017
 
-* Active in the GeoBlacklight community (Geo4Lib, OpenIndexMaps, GeoBlacklight Aardvark)
+* Active in the [GeoBlacklight](https://geoblacklight.org/) and geo4lib community.
 
-* certified Library Carpentries instructor
+* certified [Carpentries](https://carpentries.org/) instructor
 
-* project member on the [Spanish Travelers Project at Marquette University](spanishtravelers.com)
+* project member with the [Spanish Travelers Project at Marquette University](spanishtravelers.com)
 
-* advisor for GIS Club at UWM and the Alpha Mu chapter of Gamma Theta Upsilon
+* advisor for [GIS Club at UWM](https://www.facebook.com/groups/31093391757/) and the Alpha Mu chapter of [Gamma Theta Upsilon](https://gammathetaupsilon.org/)
 
-* moderator of the /r/AcademicLibrarians sub-reddit
+* moderator of the [/r/AcademicLibrarians](https://www.reddit.com/r/AcademicLibrarians/) sub-reddit
