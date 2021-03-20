@@ -1,16 +1,46 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Stephen"
+excerpt: "This is an excerpt"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
+About Stephen
 ======
 
-Somewhere at the intersection of Geographic Information Science, Information Science, Digital Humanities, and higher education, you will find me using GIS, Geography, and spatial data to answer questions, help people, and understand our world. Having learned geographic information systems as a tool to do research and analyze data in the environmental sciences, working in academic librarianship has broadened my interests to GIS applications in the Humanities and throughout digital scholarship. 
+Stephen Appel lives in Milwaukee, Wisconsin and is a GIS Librarian, hiker, coder, gamer, and gardner. I have (and express) strong opinions on food, equity, maps, and nature. I'm a Wisconsinsite born and raised.
 
-At the American Geographical Society Library at the University of Wisconsin Milwaukee Libraries, my role of Geographic Information Specialist has included curating a collection of geospatial data, teaching information literacy skills through library instruction, using geographic information systems for discovery and access to collections digital and traditional, mentoring learners, contributing to research, and contributing original work to the field.
+This is my personal website--thoughts and opinions expressed are strictly my own and not my employer's.
+
+My Job
+======
+
+Stephen is the Geospatial Information Specialist at the [American Geographical Society Library](https://www.uwm.edu/libraries/agsl)
+--a map and geography special collection at the [University of Wisconsin-Milwaukee Libraries](https://www.uwm.edu/).
+
+Somewhere at the intersection of Geographic Information Science, Information Literacy, and Digital Humanities, you will find Stephen using GIS, Geography, and spatial data to answer questions, help people, and understand our world.
+
+You can check out my [official UWM profile page](https://uwm.edu/libraries/people/appel-stephen/).
+
+Affiliations
+======
+
+* NACIS member since 2017
+
+* Active in the GeoBlacklight community (Geo4Lib, OpenIndexMaps, GeoBlacklight Aardvark)
+
+* certified Library Carpentries instructor
+
+* project member on the [Spanish Travelers Project at Marquette University](spanishtravelers.com)
+
+* advisor for GIS Club at UWM and the Alpha Mu chapter of Gamma Theta Upsilon
+
+* moderator of the /r/AcademicLibrarians sub-reddit
+
+
+
+
+
