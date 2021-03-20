@@ -1,15 +1,12 @@
 ---
 permalink: /
 title: "About Stephen"
-excerpt: "This is an excerpt"
+excerpt: "Stephen Appel lives in Milwaukee, Wisconsin and is a GIS Librarian, hiker, coder, gamer, and gardner."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About Stephen
-======
 
 Stephen Appel lives in Milwaukee, Wisconsin and is a GIS Librarian, hiker, coder, gamer, and gardner. I have (and express) strong opinions on food, equity, maps, and nature. I'm a Wisconsinsite born and raised.
 
