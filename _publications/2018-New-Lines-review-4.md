@@ -13,4 +13,4 @@ Review of *New Lines: Critical GIS and the Trouble of the Map* by Matthew W Wils
 
 ISBN: 978-0-8166-9853-0
 
-[Read the Review Here](https://www.researchgate.net/profile/Rina-Ghose/publication/308276031_Facilitating_PPGIS_Through_University_Library/links/5e20dfcb92851cafc38a8bfa/Facilitating-PPGIS-Through-University-Library.pdf)
+[Read the Review Here](http://cartographicperspectives.org/index.php/journal/article/download/1493/1658)
