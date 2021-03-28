@@ -18,4 +18,4 @@ Thesis committee:
 
 [Download paper here](https://dc.uwm.edu/cgi/viewcontent.cgi?article=1975&context=etd)
 
-Recommended citation: Appel, S. R. (2015). Public geospatial data in wisconsin: information access, data sharing, and the university.
+Recommended citation: Appel, S. R. (2015). Public geospatial data in wisconsin: information access, data sharing, and the university.   
