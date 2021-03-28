@@ -6,7 +6,6 @@ excerpt: 'This paper is about Geospatial Information Literacy'
 date: 2019-09-02
 venue: 'Journal of Map and Geography Libraries'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/15420353.2020.1760175'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 As librarians are developing library instruction curricula for map and geography libraries, there are many places where one can find guidance.
 Instructional frameworks can help organize and teach key competencies and develop literacy of geospatial information for learners.

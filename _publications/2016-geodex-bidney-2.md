@@ -6,7 +6,6 @@ excerpt: 'Paper about Geodex 2.0 in e-Perimitron'
 date: 2016-01-01
 venue: 'E-Perimetron'
 paperurl: 'http://www.e-perimetron.org/Vol_11_4/Appel_Bidney.pdf'
-citation: 'Appel. Appel, S., & Bidney, M. (2016). Geodex 2.0: saving a legacy map series cartobibliography. e-Perimetron, 11(4), 160-169.'
 ---
 In the early years of library automation many libraries were innovative in their approach to bringing new technologies to use for library search.
 Some of those technologies have long ago been archived or in some cases lost.
