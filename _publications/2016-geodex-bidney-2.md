@@ -3,7 +3,7 @@ title: "Geodex 2.0: saving a legacy map series cartobibliography"
 collection: publications
 permalink: /publication/2016-geodex-bidney-2
 excerpt: 'Paper about Geodex 2.0 in e-Perimitron'
-date: 2016
+date: 2016-01-01
 venue: 'E-Perimetron'
 paperurl: 'http://www.e-perimetron.org/Vol_11_4/Appel_Bidney.pdf'
 citation: 'Appel. Appel, S., & Bidney, M. (2016). Geodex 2.0: saving a legacy map series cartobibliography. e-Perimetron, 11(4), 160-169.'
