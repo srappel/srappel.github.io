@@ -11,9 +11,10 @@ citation: 'Appel, S. R. (2015). Public geospatial data in wisconsin: information
 A Thesis submitted in partial fulfillment of the Requirements for the degree of Master of Science in Geography at the University of Wisconsin-Milwaukee in August 2015.
 
 Thesis committee:
-Dr. Rina Ghose (Professor, UWM Geography)
-Dr. Zengwang Xu (Professor, UWM Geography)
-Marcy Bidney (Curator, American Geographical Society Library)
+
+* Dr. Rina Ghose (Professor, UWM Geography)
+* Dr. Zengwang Xu (Professor, UWM Geography)
+* Marcy Bidney (Curator, American Geographical Society Library)
 
 [Download paper here](https://dc.uwm.edu/cgi/viewcontent.cgi?article=1975&context=etd)
 
