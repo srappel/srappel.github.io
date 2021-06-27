@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-Geospatial Information Specialist, American Geographical Society Library, UWM Libraries, 2016-Present.
+Geospatial Information Specialist, American Geographical Society Library, UW-Milwaukee Libraries, 2016-Present.
 
 GIS Student Intern, American Geographical Society Library, UWM Libraries, 2013-2015.
 
@@ -49,7 +49,6 @@ Skills
   * Proficient in Python scripting
   * Proficient in Git, GitHub, and GitHub Pages
   * Good enough to google it for JavaScript, CSS, and HTML5
-  * Embarrassingly good with Access databases
   * LibGuides and Wordpress experience
 * Instruction
   * ACRL Framework for Information Literacy
@@ -68,8 +67,6 @@ Mary Jo Read Fellowship in Geography, 2014 & 2015
 Chancellors Graduate Student Award Scholarship, 2013, 2014 & 2015
 
 Outstanding Tutorial Service, 2010
-
-
 
 Publications
 ======
@@ -91,4 +88,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* UWM Libraries Library Staff Association Committee
+  * Chair 2019-2021
+
+* 
