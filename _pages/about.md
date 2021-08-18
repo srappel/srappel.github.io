@@ -10,7 +10,7 @@ redirect_from:
 
 Stephen Appel lives in Milwaukee, Wisconsin and is a GIS Librarian, hiker, coder, gamer, and gardner. I have (and express) strong opinions on food, equity, maps, and nature. I'm a Wisconsinsite--born and raised.
 
-This is my personal website--thoughts and opinions expressed are strictly my own and not my employer's.
+This is my personal website--thoughts and opinions expressed are strictly my own and not those of my employer.
 
 My Job
 ======
@@ -29,10 +29,10 @@ Affiliations
 
 * Active in the [GeoBlacklight](https://geoblacklight.org/) and geo4lib community
 
-* Certified [Carpentries](https://carpentries.org/) instructor
+* Certified [Library Carpentry](https://carpentries.org/) instructor
 
 * Project member with the [Spanish Travelers Project at Marquette University](spanishtravelers.com)
 
 * Advisor for [GIS Club at UWM](https://www.facebook.com/groups/31093391757/) and the Alpha Mu chapter of [Gamma Theta Upsilon](https://gammathetaupsilon.org/)
 
-* Moderator of the [/r/AcademicLibrarians](https://www.reddit.com/r/AcademicLibrarians/) sub-reddit
+* Moderator of [/r/AcademicLibrarians](https://www.reddit.com/r/AcademicLibrarians/)
