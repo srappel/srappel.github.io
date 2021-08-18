@@ -25,9 +25,9 @@ You can check out my [official UWM profile page](https://uwm.edu/libraries/peopl
 Affiliations
 ======
 
-* [NACIS](www.nacis.org) member since 2017
+* [NACIS](www.nacis.org) member
 
-* Active in the [GeoBlacklight](https://geoblacklight.org/) and geo4lib community
+* Active in the [GeoBlacklight](https://geoblacklight.org/) and geo4lib community, especially [OpenIndexMaps](https://openindexmaps.org/)
 
 * Certified [Library Carpentry](https://carpentries.org/) instructor
 
