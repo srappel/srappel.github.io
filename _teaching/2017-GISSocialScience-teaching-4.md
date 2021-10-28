@@ -8,7 +8,4 @@ date: 2017-04-13
 location: "Milwaukee WI, US"
 ---
 
-Abstract
-======
-
 A short workshop on using GIS for Social Science research.

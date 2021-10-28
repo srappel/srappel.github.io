@@ -8,18 +8,12 @@ date: 2018-02-19
 location: "Milwaukee WI, US"
 ---
 
-Speakers
-======
-
 Dan Sierks: Research Computing Specialist, L&S IT
 
 Stephen Appel: Geospatial Information Specialist, UWM Libraries
 
 Wei Xu: Ph.D. Candidate, UWM Dept. of Geography, GIS Club
-
-
-Abstract
-======
+<br>
 
 **Bring your ideas for GIS projects using big data**
 

@@ -8,7 +8,4 @@ date: 2017-03-16
 location: "Milwaukee WI, US"
 ---
 
-Abstract
-======
-
 A short workshop on using GIS for Earth and Environmental Science research.

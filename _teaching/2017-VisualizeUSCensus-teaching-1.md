@@ -8,7 +8,4 @@ date: 2017-04-28
 location: "Milwaukee WI, US"
 ---
 
-Abstract
-======
-
 A short workshop focused on visualizations of census data in GIS. Attended by many of the same participants as another workshop by my coleague Kristin Briney on Data Visualization.
