@@ -36,6 +36,9 @@ I have also done consulting work on the use of GIS for commercial property valua
   
 Skills
 ======
+
+![image](images/carpentries.png)
+
 * GIS
   * GIS for DH, Env. Sci., and other Scholarship
   * Geodatabase Design and Administration
