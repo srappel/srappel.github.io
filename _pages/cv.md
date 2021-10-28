@@ -37,7 +37,7 @@ I have also done consulting work on the use of GIS for commercial property valua
 Skills
 ======
 
-![image](images/carpentries.png)
+![image](https://srappel.github.io/images/carpentries.png)
 
 * GIS
   * GIS for DH, Env. Sci., and other Scholarship
