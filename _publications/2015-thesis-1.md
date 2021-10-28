@@ -34,6 +34,3 @@ Chapter 4: *Envisioning Open GIS: The Role of the University and the Library*
 ## Recommended citation
 
 `Appel, S. R. (2015). Public Geospatial Data in Wisconsin: Information Access, Data Sharing, and the University.`   
-
-
-
