@@ -10,7 +10,7 @@ location: "Milwaukee WI, US"
 
 [See the workshop poster](/files/GISandHPC_DHlab.pdf)
 
-Dan Sierks: Research Computing Specialist, L&S IT
+Dan Siercks: Research Computing Specialist, L&S IT
 
 Stephen Appel: Geospatial Information Specialist, UWM Libraries
 
