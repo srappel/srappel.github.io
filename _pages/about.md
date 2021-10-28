@@ -9,17 +9,6 @@ redirect_from:
 ---
 
 Stephen Appel lives and works in Milwaukee, Wisconsin and is a librarian, GIS expert, Geographer, coder, and believes in not being a jerk. In his free time, he's hanging out with his cat Sputnik, playing video games, hiking, biking, camping, cooking, or, most likely, getting distracted.
-
-## Wisconsin Old Fashioned
-
-* Muddle an orange slice, some bar cherries with syrup, and bitters in the bottom of a large glass
-
-* Fill the glass with ice
-
-* Add a large serving or 2 of Brandy (nothing fancy)
-
-* Finish with a splash of 7-Up or Squirt
-
 <br>
 
 My Job
@@ -46,3 +35,13 @@ Affiliations
 * Advisor for [GIS Club at UWM](https://www.facebook.com/groups/31093391757/) and the Alpha Mu chapter of [Gamma Theta Upsilon](https://gammathetaupsilon.org/)
 
 * Moderator of [/r/AcademicLibrarians](https://www.reddit.com/r/AcademicLibrarians/)
+
+## Wisconsin Old Fashioned
+
+* Muddle an orange slice, some bar cherries with syrup, and bitters in the bottom of a large glass
+
+* Fill the glass with ice
+
+* Add a large serving or 2 of Brandy (nothing fancy)
+
+* Finish with a splash of 7-Up or Squirt
