@@ -37,8 +37,6 @@ I have also done consulting work on the use of GIS for commercial property valua
 Skills
 ======
 
-![image](https://srappel.github.io/images/carpentries.png)
-
 * GIS
   * GIS for DH, Env. Sci., and other Scholarship
   * Geodatabase Design and Administration
@@ -95,3 +93,19 @@ Service and leadership
   * Chair 2019-2021
 
 * 
+
+Hex Stickers
+======
+
+![image](https://srappel.github.io/images/hex/carpentries.png)
+![image](https://srappel.github.io/images/hex/carpentries-datacarpentry.png)
+![image](https://srappel.github.io/images/hex/carpentries-librarycarpentry.png)
+![image](https://srappel.github.io/images/hex/carpentries-softwarecarpentry.png)
+![image](https://srappel.github.io/images/hex/eff.png)
+![image](https://srappel.github.io/images/hex/antifaschistische-aktion.png)
+![image](https://srappel.github.io/images/hex/geoblacklight.png)
+![image](https://srappel.github.io/images/hex/geohipster.png)
+![image](https://srappel.github.io/images/hex/opengeometadata.png)
+![image](https://srappel.github.io/images/hex/privacybadger.png)
+![image](https://srappel.github.io/images/hex/rstudio.png)
+![image](https://srappel.github.io/images/hex/ubuntu.png)
