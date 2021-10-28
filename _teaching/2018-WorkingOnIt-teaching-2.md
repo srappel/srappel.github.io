@@ -28,6 +28,3 @@ Moderators will share examples and information about how researchers at UWM can 
 "Working on it": Collaborative DH Research Round Tables is a series forcused on informal discussions about collaborative, work-in-progress
 research projects.
 Our aim is to support collaborative research efforts and help bring together ideas and brains across departments and disciplines.
-
-Heading 3
-======
