@@ -7,6 +7,10 @@ date: 2019-09-02
 venue: 'Journal of Map and Geography Libraries'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/15420353.2020.1760175'
 ---
+[Download paper here](https://www.tandfonline.com/doi/abs/10.1080/15420353.2020.1760175)
+
+## Abstract
+
 As librarians are developing library instruction curricula for map and geography libraries, there are many places where one can find guidance.
 Instructional frameworks can help organize and teach key competencies and develop literacy of geospatial information for learners.
 The Association of College and Research Libraries (ACRL) Framework for Information Literacy for Higher Education has become the quintessential guiding document for information literacy instruction in academic libraries.
@@ -16,6 +20,6 @@ This paper focuses on geospatial information literacy instruction, best represen
 The unique blend of geographic literacy incorporating geography, primary-source, map, and spatial literacies as well as data and digital literacies, including data information literacy and the emerging Cyber GIScience literacy
 make GIScience a discipline where map and geography librarians are well positioned to impact the success of learners and advance pedagogy development.
 
-[Download paper here](https://www.tandfonline.com/doi/abs/10.1080/15420353.2020.1760175)
+## Recommended citation
 
-Recommended citation: Appel, S. (2019). Geospatial Information Literacy Instruction: Frameworks, Competency, and Threshold Concepts. Journal of Map & Geography Libraries, 15(2-3), 134-151.
+`Appel, S. (2019). Geospatial Information Literacy Instruction: Frameworks, Competency, and Threshold Concepts. Journal of Map & Geography Libraries, 15(2-3), 134-151.`

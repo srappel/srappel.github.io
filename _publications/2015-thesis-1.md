@@ -25,7 +25,7 @@ Chapter 3: *Public Geospatial Data Sharing in Wisconsin*
 
 Chapter 4: *Envisioning Open GIS: The Role of the University and the Library*
 
-## Committee:
+## Committee
 
 * Dr. Rina Ghose (Professor, UWM Geography)
 * Dr. Zengwang Xu (Professor, UWM Geography)
