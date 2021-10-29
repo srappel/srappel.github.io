@@ -20,8 +20,7 @@ Education
 Work experience
 ======
 
-### **Geospatial Information Specialist**
-### American Geographical Society Library, UW-Milwaukee Libraries
+### **Geospatial Information Specialist** (American Geographical Society Library, UW-Milwaukee Libraries)
 *2016-Present*
 
 * Curate and maintain the digital spatial data clearinghouse including working towards UWM Libraries goals of digital preservation
@@ -33,20 +32,73 @@ Work experience
 
 * Collaborate with professionals at UWM Libraries, other faculty and staff at UWM, faculty and staff at other UW institutions, and members of the community for various projects and initiatives
 
+### **GIS Reference Consultant and Tool Developer** (American Geographical Society Library, UW-Milwaukee Libraries)
+*2015*
 
-GIS Student Intern, American Geographical Society Library, UWM Libraries, 2013-2015.
+* Developed software tools and web mapping applications to aid users in searching both digital and print materials in the collection
 
-Graduate Teaching Assistant, Geography, UW-Milwaukee 2013-2015
+* Assisted in the training of GIS student interns
 
-Co-Chair, Special Elections Committee, UWM Student Association 2014-2015
+* Provided reference and research consultations related to geospatial information
 
-Supplemental Instruction Leader/Tutor, Panther Academic Support Services (PASS), UW-Milwaukee 2010-2013
+* Assisted the Geospatial Information Specialist
+
+### **GIS Student Assistant** (American Geographical Society Library, UW-Milwaukee Libraries)
+*2013-2015*
+
+* Provided reference related to geospatial information
+
+* Facilitated GIS data requests pursuant to various license agreements and user needs
+
+* Archival quality digitization and duplication of physical materials
+
+* Assisted the Geospatial Information Specialist/GIS Librarian
+
+* Assumed various duties of Geospatial Information Specialist during vacancy of that position
+
+### **Graduate Teaching Assistant** (Departmnet of Geography, UW-Milwaukee) 
+*2013-2015*
+
+* Course: Geography 215 - Intro to Geographic Information Systems
+
+* Under the supervision of Dr. Rina Ghose
+
+* Responsible for course management, grading, and student assistance
+
+* Assisted in developing a traditionally classroom course into an effective online model
+
+* Facilitated two online GIS laboratories including two semesters as Lead Teaching Assistant 
+
+* Maintained course site on D2L (CMS)
+
+### **Co-Chair, Special Elections Committee** (UWM Student Association)
+*2014-2015*
+
+* Voting member of Student Association of Milwaukee Board of Trustees
+
+* Drafted new Independent Election Commission bylaws and planned for student elections
+
+* Collaborated with staff and faculty government for participation in elections oversight
+
+### **Supplemental Instruction Leader/Tutor** (Panther Academic Support Services, UW-Milwaukee)
+*2010-2013*
+
+* Worked with instructor for Plants in Today’s World (BIOSCI 104) to develop supplemental instruction services for undergraduate students
+
+* Facilitated small and large group review sessions, tutoring, and online interactive reviews
+
+* Received training in academic coaching, online tutoring using interactive software, time and stress management skills, dealing with distressed or disruptive students
+
+* Worked with students with learning disabilities, student athletes, and at-risk students
+
+### Other work:
+
+Property Valuation Consulting (Open source GIS consulting) - *Reference available by request*
 
 Toppers Pizza, Milwaukee, WI 2008-2009
 
 Ground Round at Bridgewood Resort, Neenah, WI 2007 ~ 2011
 
-I have also done consulting work on the use of GIS for commercial property valuation, reference by request.
   
 Skills
 ======
