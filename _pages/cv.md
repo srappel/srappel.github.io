@@ -20,7 +20,8 @@ Education
 Work experience
 ======
 
-### **Geospatial Information Specialist** American Geographical Society Library, UW-Milwaukee Libraries
+### **Geospatial Information Specialist**
+### American Geographical Society Library, UW-Milwaukee Libraries
 *2016-Present*
 
 * Curate and maintain the digital spatial data clearinghouse including working towards UWM Libraries goals of digital preservation
