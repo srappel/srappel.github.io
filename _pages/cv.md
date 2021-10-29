@@ -11,14 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in Conservation and Environmental Science, University of Wisconsin-Milwaukee, 2012
-* GIS Certificate, University of Wisconsin-Milwaukee, 2013
-* M.S. in Geography, University of Wisconsin-Milwaukee, 2015
+**B.S. Conservation and Environmental Science** University of Wisconsin-Milwaukee, 2012
+
+**GIS Certificate** University of Wisconsin-Milwaukee, 2013
+
+**M.S. Geography** University of Wisconsin-Milwaukee, 2015
 
 Work experience
 ======
 
-Geospatial Information Specialist, American Geographical Society Library, UW-Milwaukee Libraries, 2016-Present.
+### **Geospatial Information Specialist** American Geographical Society Library, UW-Milwaukee Libraries
+*2016-Present*
+
+* Curate and maintain the digital spatial data clearinghouse including working towards UWM Libraries goals of digital preservation
+
+* Provide reference and research consultations related to geospatial information •Provide reference services related to the AGS Library collection as needed
+* Supervise GIS student internship program
+
+* Provide digital spatial data instruction in the form of class visits, presentations, and workshops
+
+* Collaborate with professionals at UWM Libraries, other faculty and staff at UWM, faculty and staff at other UW institutions, and members of the community for various projects and initiatives
+
 
 GIS Student Intern, American Geographical Society Library, UWM Libraries, 2013-2015.
 
