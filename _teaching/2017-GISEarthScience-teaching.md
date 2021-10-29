@@ -2,7 +2,7 @@
 title: "GIS Data for Earth and Environmental Sciences Workshop"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2017-GISEarthScience-teaching-3
+permalink: /teaching/2017-GISEarthScience-teaching
 venue: "UWM Digital Humanities Lab"
 date: 2017-03-16
 location: "Milwaukee WI, US"

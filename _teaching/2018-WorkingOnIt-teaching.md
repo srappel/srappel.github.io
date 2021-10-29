@@ -2,7 +2,7 @@
 title: "Working on it: GIS and High Performance Computing"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-WorkingOnIt-teaching-2
+permalink: /teaching/2015-WorkingOnIt-teaching
 venue: "UWM Digital Humanities Lab"
 date: 2018-02-19
 location: "Milwaukee WI, US"

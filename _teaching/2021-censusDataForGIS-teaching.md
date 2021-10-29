@@ -2,7 +2,7 @@
 title: "Census Data and Tools for GIS"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2021-censusDataForGIS-teaching-1
+permalink: /teaching/2021-censusDataForGIS-teaching
 venue: "UWM GIS Day 2021"
 date: 2021-04-14
 location: "Milwaukee WI, US"

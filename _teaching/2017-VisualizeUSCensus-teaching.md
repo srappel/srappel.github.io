@@ -2,7 +2,7 @@
 title: "Visualizing U.S. Census Data Workshop"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2017-VisualizeUSCensus-teaching-1
+permalink: /teaching/2017-VisualizeUSCensus-teaching
 venue: "UWM Digital Humanities Lab"
 date: 2017-04-28
 location: "Milwaukee WI, US"
