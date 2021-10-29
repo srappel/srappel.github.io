@@ -14,7 +14,7 @@ Stephen Appel lives and works in Milwaukee, Wisconsin and is a librarian, GIS ex
 My Job
 ======
 
-Stephen is the Geospatial Information Specialist at the [American Geographical Society Library](https://www.uwm.edu/libraries/agsl)
+Stephen is the Geospatial Information Librarian at the [American Geographical Society Library](https://www.uwm.edu/libraries/agsl)
 --a map and geography special collection at the [University of Wisconsin-Milwaukee Libraries](https://www.uwm.edu/libraries).
 
 Somewhere at the intersection of Geographic Information Science, Information Literacy, and Digital Humanities, you will find Stephen using GIS, Geography, and spatial data to answer questions, help people, and understand our world.
