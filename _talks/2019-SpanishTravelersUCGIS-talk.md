@@ -19,8 +19,10 @@ Approaching travelogues as if they were hypertexts of the pre-digital age, with 
 
 Our research questions are the following:
 
-    Is there any correlation between the means of mobility—horses, donkeys, shared horse-driven carriages, walking, trains, sailboats, and steamers-- available to 19th century travelers, on the one hand, and the repertory of destinations that they visited?
-    How did different types of mobility affect, not only the timelines of travels, but also the ways in which these timelines were narrated in travel literature?
-    How, if at all, did the gender and the country of origin of the writers and the travelers affect the timelines and the destinations of their travels and the ways in which these were described?
+* Is there any correlation between the means of mobility—horses, donkeys, shared horse-driven carriages, walking, trains, sailboats, and steamers-- available to 19th century travelers, on the one hand, and the repertory of destinations that they visited?
+
+* How did different types of mobility affect, not only the timelines of travels, but also the ways in which these timelines were narrated in travel literature?
+
+* How, if at all, did the gender and the country of origin of the writers and the travelers affect the timelines and the destinations of their travels and the ways in which these were described?
 
  To answer these questions, the project team is using GIS and 3D “space-time cube” modeling (Kraak, 2014) to visualize what, following the literature theorist Mikhail Bakhtin (1975), we call "chronotopes" of travel literature-- the interdependence of the formal elements related to narrative time and space. The project will offer an interactive map of itineraries from multiple travelogues about Spain written in different languages, by female and male authors, before and after the 1860s boom of railway tourism in Spain.
