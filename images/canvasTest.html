@@ -9,117 +9,34 @@
         </canvas> 
 
         <script>
-            // Define the arrawy of hex tiles:
-            let hexes = ['antifa',
-                'carpentries-datacarpentry',
-                'carpentries-librarycarpentry',
-                'carpentries-softwarecarpentry',
-                'carpentries',
-                'eff',
-                'geoblacklight',
-                'geohipster',
-                'opengeometadata',
-                'privacybadger',
-                'rstudio',
-                'ubuntu'
-            ];
-
-            // Define the positions (3 rows of 4 tiles):
-            let positions = [
-                [0,0],
-                [184,0],
-                [368,0],
-                [552,0],
-                [92,160],
-                [276,160],
-                [460,160],
-                [644,160]
-
-            ]
-            
-            // Load the eff hex at 0,0
             var canvas=document.getElementById("myCanvas");
             var context=canvas.getContext('2d');
-            var ubuntu=new Image();
-            ubuntu.onload=function(){
-                context.drawImage(ubuntu,0,0)
-                context.drawImage(ubuntu,184,0)
-                context.drawImage(ubuntu,368,0)
-                context.drawImage(ubuntu,552,0)
-                context.drawImage(ubuntu,92,160)
-                context.drawImage(ubuntu,276,160)
-                context.drawImage(ubuntu,460,160)
-                context.drawImage(ubuntu,644,160)
 
-/*                 context.drawImage(ubuntu,0,0)
-                context.drawImage(ubuntu,92,160)
-                context.drawImage(ubuntu,0,320)
-                context.drawImage(ubuntu,184,0)
-                context.drawImage(ubuntu,184,320) */
+            function createImage(i){   // load an image function 
+                           // creates a new i each time it is called
+                var image = new Image();  // create a new image variable 
+                image.src = hexes[i][0];
+                image.onload = function(){  // now the onload will have the correct variables 
+                    context.drawImage(image,hexes[i][1],hexes[i][2]);
+                    } 
+            }
+            var hexes = [
+                ['hex/ubuntu.png',0,0],
+                ['hex/carpentries-datacarpentry.png',184,0],
+                ['hex/carpentries-librarycarpentry.png',368,0],
+                ['hex/carpentries-softwarecarpentry.png',552,0],
+                ['hex/carpentries.png',92,160],
+                ['hex/eff.png',286,160],
+                ['hex/geoblacklight.png',460,160],
+                ['hex/geohipster.png',644,160],
+                ['hex/opengeometadata.png',0,320],
+                ['hex/privacybadger.png',184,320],
+                ['hex/rstudio.png',368,320],
+                ['hex/antifa.png',552,320]
+            ];
+            for(var i = 0; i < hexes.length; i += 1){
+                createImage(i); // call the function so it can create unique variables for each image
             };
-            ubuntu.src="https://srappel.github.io/images/hex/ubuntu.png";
-/*  
-            var eff=new Image();
-            eff.onload=function(){
-                context.drawImage(eff,92,160;
-            };
-            eff.src="https://srappel.github.io/images/hex/eff.png";
-
-            var privacybadger=new Image();
-            privacybadger.onload=function(){
-                context.drawImage(privacybadger,0,320)
-            };
-            privacybadger.src="https://srappel.github.io/images/hex/privacybadger.png";
-
-            var privacybadger=new Image();
-            privacybadger.onload=function(){
-                context.drawImage(privacybadger,184,0)
-            };
-            privacybadger.src="https://srappel.github.io/images/hex/privacybadger.png";
-
-            var privacybadger=new Image();
-            privacybadger.onload=function(){
-                context.drawImage(privacybadger,0,320)
-            };
-            privacybadger.src="https://srappel.github.io/images/hex/privacybadger.png";
-
-            var privacybadger=new Image();
-            privacybadger.onload=function(){
-                context.drawImage(privacybadger,0,320)
-            };
-            privacybadger.src="https://srappel.github.io/images/hex/privacybadger.png";
-
-            var privacybadger=new Image();
-            privacybadger.onload=function(){
-                context.drawImage(privacybadger,0,320)
-            };
-            privacybadger.src="https://srappel.github.io/images/hex/privacybadger.png";
-
-            var privacybadger=new Image();
-            privacybadger.onload=function(){
-                context.drawImage(privacybadger,0,320)
-            };
-            privacybadger.src="https://srappel.github.io/images/hex/privacybadger.png";
-
-            var privacybadger=new Image();
-            privacybadger.onload=function(){
-                context.drawImage(privacybadger,0,320)
-            };
-            privacybadger.src="https://srappel.github.io/images/hex/privacybadger.png";
-
-            var privacybadger=new Image();
-            privacybadger.onload=function(){
-                context.drawImage(privacybadger,0,320)
-            };
-            privacybadger.src="https://srappel.github.io/images/hex/privacybadger.png";
-
-            var privacybadger=new Image();
-            privacybadger.onload=function(){
-                context.drawImage(privacybadger,0,320)
-            };
-            privacybadger.src="https://srappel.github.io/images/hex/privacybadger.png"; */
-
-
         </script> 
     </body>
 </html>
