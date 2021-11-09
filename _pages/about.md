@@ -10,7 +10,7 @@ redirect_from:
 
 Stephen Appel lives and works in Milwaukee, Wisconsin and is a librarian, GIS expert, Geographer, coder, and believes in not being a jerk. In his free time, he's hanging out with his cat Sputnik, playing video games, hiking, biking, camping, cooking, or, most likely, getting distracted.
 
-<iframe src="https://srappel.github.io/images/canvas.html" width="830" height="540" style="border:none;" ></iframe>
+<iframe src="https://srappel.github.io/images/canvas.html" width="840" height="550" style="border:none;" ></iframe>
 <br>
 
 My Job
