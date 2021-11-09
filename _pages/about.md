@@ -31,7 +31,6 @@ Affiliations
 <script>
 var canvas=document.getElementById("myCanvas");
 var context=canvas.getContext('2d');
-
 function createImage(i){   // load an image function 
 // creates a new i each time it is called
 var image = new Image();  // create a new image variable 
