@@ -23,8 +23,7 @@ You can check out my [official UWM profile page](https://uwm.edu/libraries/peopl
 
 Affiliations
 ======
-s
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
 <script src="hex.js"></script>
 <div id="hex">
 <canvas id="myCanvas" width="825" height="630" style="border:1px solid #000000;">
