@@ -24,11 +24,7 @@ You can check out my [official UWM profile page](https://uwm.edu/libraries/peopl
 Affiliations
 ======
 
-<script src="hex.js"></script>
-<div id="hex">
-<canvas id="myCanvas" width="825" height="630" style="border:1px solid #000000;">
-</canvas> 
-</div>
+<iframe src="https://srappel.github.io/images/canvasTest.html"></iframe>
 
 * [NACIS](www.nacis.org) member
 
