@@ -24,7 +24,7 @@ You can check out my [official UWM profile page](https://uwm.edu/libraries/peopl
 Affiliations
 ======
 
-<iframe src="https://srappel.github.io/images/canvasTest.html" width="825" height="529" ></iframe>
+<iframe src="https://srappel.github.io/images/canvasTest.html" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
 
 * [NACIS](www.nacis.org) member
 
