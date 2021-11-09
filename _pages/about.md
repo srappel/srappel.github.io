@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 Stephen Appel lives and works in Milwaukee, Wisconsin and is a librarian, GIS expert, Geographer, coder, and believes in not being a jerk. In his free time, he's hanging out with his cat Sputnik, playing video games, hiking, biking, camping, cooking, or, most likely, getting distracted.
+
+<iframe src="https://srappel.github.io/images/canvas.html" width="830" height="540" style="border:none;" ></iframe>
 <br>
 
 My Job
@@ -23,8 +25,6 @@ You can check out my [official UWM profile page](https://uwm.edu/libraries/peopl
 
 Affiliations
 ======
-
-<iframe src="https://srappel.github.io/images/canvasTest.html" width="900" height="600" style="border:none;" ></iframe>
 
 * [NACIS](www.nacis.org) member
 
