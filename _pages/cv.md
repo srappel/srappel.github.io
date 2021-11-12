@@ -157,21 +157,4 @@ Service and leadership
 ======
 * UWM Libraries Library Staff Association Committee
   * Chair 2019-2021
-
-* 
-
-Hex Stickers
-======
-
-![image](https://srappel.github.io/images/hex/carpentries.png)
-![image](https://srappel.github.io/images/hex/carpentries-datacarpentry.png)
-![image](https://srappel.github.io/images/hex/carpentries-librarycarpentry.png)
-![image](https://srappel.github.io/images/hex/carpentries-softwarecarpentry.png)
-![image](https://srappel.github.io/images/hex/eff.png)
-![image](https://srappel.github.io/images/hex/antifaschistische-aktion.png)
-![image](https://srappel.github.io/images/hex/geoblacklight.png)
-![image](https://srappel.github.io/images/hex/geohipster.png)
-![image](https://srappel.github.io/images/hex/opengeometadata.png)
-![image](https://srappel.github.io/images/hex/privacybadger.png)
-![image](https://srappel.github.io/images/hex/rstudio.png)
-![image](https://srappel.github.io/images/hex/ubuntu.png)
+  
