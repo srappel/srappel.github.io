@@ -1,5 +1,5 @@
 ---
-title: "Forthcoming: Software Carpentry - Version Control with Git"
+title: "Forthcoming 2/9/2022: Software Carpentry - Version Control with Git"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-sc-git

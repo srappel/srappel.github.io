@@ -1,5 +1,5 @@
 ---
-title: "Forthcoming: Spanish Travlers Project 3D"
+title: "Forthcoming 2/18/2022: Spanish Travlers Project 3D"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-SpanishTravelers-talk

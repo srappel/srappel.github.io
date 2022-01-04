@@ -1,5 +1,5 @@
 ---
-title: "Forthcoming: Computational Humanities - Spatial Humanities"
+title: "Forthcoming 3/2/2022: Computational Humanities - Spatial Humanities"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-CompHuman-Spatial

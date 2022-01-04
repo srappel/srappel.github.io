@@ -1,5 +1,5 @@
 ---
-title: "Forthcoming: Census Data and Tools for GIS"
+title: "Forthcoming 4/8/2022: Census Data and Tools for GIS"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-GISDayCensus-teaching.
