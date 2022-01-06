@@ -32,6 +32,8 @@ Affiliations
 
 * Certified [Library Carpentry](https://carpentries.org/) instructor
 
+* Co-Chair Data Carpentry Geospatial Curriculum Advisory Committee
+
 * Project member with the [Spanish Travelers Project at Marquette University](spanishtravelers.com)
 
 * Advisor for [GIS Club at UWM](https://www.facebook.com/groups/31093391757/) and the Alpha Mu chapter of [Gamma Theta Upsilon](https://gammathetaupsilon.org/)
