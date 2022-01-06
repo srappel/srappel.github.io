@@ -32,7 +32,7 @@ Affiliations
 
 * Certified [Library Carpentry](https://carpentries.org/) instructor
 
-* Co-Chair Data Carpentry Geospatial Curriculum Advisory Committee
+* Co-Chair [Data Carpentry Geospatial Curriculum Advisory Committee](https://datacarpentry.org/curriculum-advisors/#curriculum-advisors---geospatial)
 
 * Project member with the [Spanish Travelers Project at Marquette University](spanishtravelers.com)
 
