@@ -38,7 +38,6 @@ Affiliations
 
 * Advisor for [GIS Club at UWM](https://www.facebook.com/groups/31093391757/) and the Alpha Mu chapter of [Gamma Theta Upsilon](https://gammathetaupsilon.org/)
 
-* Moderator of [/r/AcademicLibrarians](https://www.reddit.com/r/AcademicLibrarians/)
 
 ## Wisconsin Old Fashioned
 
