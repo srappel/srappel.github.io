@@ -1,5 +1,5 @@
 ---
-title: "Forthcoming 3/2/2022: Computational Humanities - Spatial Humanities"
+title: "Computational Humanities - Spatial Humanities"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-CompHuman-Spatial
@@ -9,8 +9,6 @@ location: "Milwaukee WI, US"
 ---
 
 Part of the *Computational Humanities* series at the UWM Digital Humanities Lab.
-
-Contact me for more information.
 
 March 2 (W)
 1:00 - 2:30 p.m.
