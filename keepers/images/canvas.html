@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Hex Canvas</title>
+    </head>
+    <body>
+        <canvas id="myCanvas" width="825" height="529">
+        </canvas> 
+
+        <script>
+            var canvas=document.getElementById("myCanvas");
+            var context=canvas.getContext('2d');
+
+            function createImage(i){   // load an image function 
+                           // creates a new i each time it is called
+                var image = new Image();  // create a new image variable 
+                image.src = hexes[i][0];
+                image.onload = function(){  // now the onload will have the correct variables 
+                    context.drawImage(image,hexes[i][1],hexes[i][2]);
+                    } 
+            }
+            var hexes = [
+                ['hex/eff.png',0,0],
+                ['hex/carpentries-datacarpentry.png',184,0],
+                ['hex/carpentries-librarycarpentry.png',368,0],
+                ['hex/carpentries-softwarecarpentry.png',552,0],
+                ['hex/carpentries.png',92,160],
+                ['hex/ubuntu.png',276,160],
+                ['hex/geoblacklight.png',460,160],
+                ['hex/geohipster.png',644,160],
+                ['hex/opengeometadata.png',0,320],
+                ['hex/privacybadger.png',184,320],
+                ['hex/rstudio.png',368,320],
+                ['hex/pipe.png',552,320]
+            ];
+            for(var i = 0; i < hexes.length; i += 1){
+                createImage(i); // call the function so it can create unique variables for each image
+            };
+        </script> 
+    </body>
+</html>
