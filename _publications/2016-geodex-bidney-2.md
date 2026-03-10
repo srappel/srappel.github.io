@@ -1,5 +1,6 @@
 ---
 title: "Geodex 2.0: saving a legacy map series cartobibliography"
+authors: "Marcy Bidney and Stephen Appel"
 collection: publications
 permalink: /publication/2016-geodex-bidney-2
 excerpt: 'In the early years of library automation many libraries were innovative in their approach to bringing new technologies to use for library search.

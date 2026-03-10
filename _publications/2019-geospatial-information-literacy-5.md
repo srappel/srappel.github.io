@@ -1,5 +1,6 @@
 ---
 title: "Geospatial Information Literacy Instruction: Frameworks, Competency, and Threshold Concepts"
+authors: "Stephen Appel"
 collection: publications
 permalink: /publication/2019-geospatial-information-literacy-5
 excerpt: 'As librarians are developing library instruction curricula for map and geography libraries, there are many places where one can find guidance.
