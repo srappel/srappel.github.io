@@ -1,5 +1,6 @@
 ---
 title: "Review of New Lines: Critical GIS and the Trouble of the Map"
+authors: "Stephen Appel"
 collection: publications
 permalink: /publication/2018-New-Lines-review-4
 excerpt: 'New Lines: Critical GIS and the Trouble of the Map reinvigorates some of the discussions that GIScience scholars have 
