@@ -1,6 +1,6 @@
 ---
 title: "Letters from Spain in a Space-time Box: Historical GIS with Timestamped Itineraries for Understanding the Chronotopes of Nineteenth-century Travel Writing"
-authors: "Eugenia Afinoguénova, Stephen Appel, Andrea Ballard, & Macenzi McGowan"
+authors: "Eugenia Afinoguénova, Stephen Appel, Andrea Ballard & Macenzi McGowan"
 collection: publications
 permalink: /publication/2020-Letters-From-Spain-Afinoguenova-6
 excerpt: 'This article documents the use of historical GIS with timestamped itineraries to better understand a large multilingual corpus of nineteenth-century travelogues about Spain and their diverse

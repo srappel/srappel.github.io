@@ -1,6 +1,6 @@
 ---
 title: "The Social Life of Allmaps: Reflecting on Software Communities in Sustaining the Digital Geohumanities"
-authors: "Ann Hanlon, Ian Spangler, Stephen Appel, Jules Schoonman, Bert Spaan"
+authors: "Ann Hanlon, Ian Spangler, Stephen Appel, Jules Schoonman & Bert Spaan"
 collection: publications
 permalink: /publication/2025-Hanlon-9
 excerpt: "Digital tools for humanistic inquiry (digital humanities) have become important parts of how people engage with historical collections. 
