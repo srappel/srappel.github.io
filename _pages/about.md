@@ -1,40 +1,44 @@
 ---
 permalink: /
 title: "About Stephen"
-excerpt: "Stephen Appel lives in Milwaukee, Wisconsin and is a GIS Librarian, hiker, biker, coder, gamer, and gardner."
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Stephen Appel lives and works in Milwaukee, Wisconsin. At work he's working with maps, GIS, and data. At home he's working in the garden, playing video games, cooking, hiking, or biking. Open to collaborations and open to GIS or public data consulting.
+Stephen Appel lives and works in Milwaukee, Wisconsin. At work he works with maps, GIS, and data.
+At home he enjoys gardening, video games, cooking, hiking, and biking. 
+He is open to collaborations as well as GIS or public data consulting and contract work.
 
-My Job
-======
+## My Job
 
-Stephen is the Geospatial Information Librarian at the [American Geographical Society Library](https://www.uwm.edu/libraries/agsl)
---a map and geography special collection at the [University of Wisconsin-Milwaukee Libraries](https://www.uwm.edu/libraries).
+I work where geography, GIS, and digital scholarship meet, helping people transform spatial data into knowledge.
 
-Somewhere at the intersection of Geographic Information Science, Information Literacy, and Digital Humanities, you will find Stephen using GIS, Geography, and spatial data to answer questions, help people, and understand our world.
+I am the **[Geospatial Information Librarian](https://uwm.edu/libraries/directory/appel-stephen/)**  
+at the **[American Geographical Society Library](https://www.uwm.edu/libraries/agsl)**,  
+a map and geography research library within the **[UWM Libraries](https://www.uwm.edu/libraries)**.
 
-You can check out my [official UWM profile page](https://uwm.edu/libraries/directory/appel-stephen/).
+## Affinities
 
-Affiliations
-======
+Communities, organizations, and collaborations that orient my work in geography, GIS, and digital scholarship.
 
-* [NACIS](www.nacis.org) member
+- Alumnus and staff member at my alma mater, the **University of Wisconsin–Milwaukee**
 
-* Active in the [Geo4Lib](https://geo4lib.org/) community, especially [OpenIndexMaps](https://openindexmaps.org/)
+- Member of **[NACIS](https://www.nacis.org)** and **[WAML](https://www.waml.org)**
 
-* Certified [Library Carpentry](https://carpentries.org/) instructor
+- Active in the **[Geo4Lib](https://geo4lib.org/)** community, especially **[OpenIndexMaps](https://openindexmaps.org/)**
 
-* Co-Chair [Data Carpentry Geospatial Curriculum Advisory Committee](https://datacarpentry.org/curriculum-advisors/#curriculum-advisors---geospatial)
-(Interested in joining? Please reach out!!!!!)
+- Contributor to the open geospatial metadata ecosystem, including **[OpenGeoMetadata](https://opengeometadata.org)**
 
-* Affiliate of the [Spanish Travelers Project at Marquette University](spanishtravelers.com)
+- Certified **[Library Carpentry](https://carpentries.org/)** instructor
 
-* Advisor for [GIS Club at UWM](https://www.facebook.com/groups/31093391757/) and the Alpha Mu chapter of [Gamma Theta Upsilon](https://gammathetaupsilon.org/)
+- Co-Chair, **[Data Carpentry Geospatial Curriculum Advisory Committee](https://datacarpentry.org/curriculum-advisors/#curriculum-advisors---geospatial)**  
+  *(currently recruiting new members)*
 
-<iframe src="https://srappel.github.io/images/canvas.html" width="840" height="550" style="border:none;" ></iframe>
-<br>
+- Affiliate of the **[Spanish Travelers Project](https://spanishtravelers.com/)** at Marquette University
+
+- Occasional advisor to the Alpha Mu chapter of **[Gamma Theta Upsilon](https://gammathetaupsilon.org/)**
+
+<iframe alt="Collection of hexagon logos for communities including Data Carpentry, Library Carpentry, Software Carpentry, GeoBlacklight, Ubuntu, RStudio, and OpenGeoMetadata" src="https://srappel.github.io/images/canvas.html" width="840" height="550" style="border:none;"></iframe>
