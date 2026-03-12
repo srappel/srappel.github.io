@@ -16,9 +16,7 @@ He is open to collaborations as well as GIS or public data consulting and contra
 
 I work where geography, GIS, and digital scholarship meet, helping people transform spatial data into knowledge.
 
-I am the **[Geospatial Information Librarian](https://uwm.edu/libraries/directory/appel-stephen/)**  
-at the **[American Geographical Society Library](https://www.uwm.edu/libraries/agsl)**,  
-a map and geography research library within the **[UWM Libraries](https://www.uwm.edu/libraries)**.
+I am the **[Geospatial Information Librarian](https://uwm.edu/libraries/directory/appel-stephen/)** at the **[American Geographical Society Library](https://www.uwm.edu/libraries/agsl)**, a map and geography research library within the **[UWM Libraries](https://www.uwm.edu/libraries)**.
 
 ## Affinities
 
