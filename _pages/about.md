@@ -43,7 +43,7 @@ Communities, organizations, and collaborations that orient my work in geography,
 
   <iframe
     title="Hexagon logos representing communities including Library Carpentry, Data Carpentry, GeoBlacklight, Ubuntu, RStudio, and OpenGeoMetadata"
-    src="https://srappel.github.io/images/canvas.html"
+    src="{{ base_path }}/images/canvas.html"
     width="840"
     height="550"
     style="border:none;">
