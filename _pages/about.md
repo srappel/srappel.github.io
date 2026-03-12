@@ -41,4 +41,19 @@ Communities, organizations, and collaborations that orient my work in geography,
 
 - Occasional advisor to the Alpha Mu chapter of **[Gamma Theta Upsilon](https://gammathetaupsilon.org/)**
 
-<iframe alt="Collection of hexagon logos for communities including Data Carpentry, Library Carpentry, Software Carpentry, GeoBlacklight, Ubuntu, RStudio, and OpenGeoMetadata" src="https://srappel.github.io/images/canvas.html" width="840" height="550" style="border:none;"></iframe>
+<figure class="community-hexes">
+
+  <iframe
+    title="Hexagon logos representing communities including Library Carpentry, Data Carpentry, GeoBlacklight, Ubuntu, RStudio, and OpenGeoMetadata"
+    src="https://srappel.github.io/images/canvas.html"
+    width="840"
+    height="550"
+    style="border:none;">
+  </iframe>
+
+  <figcaption>
+    Communities and open-source ecosystems I participate in, including Library Carpentry,
+    Data Carpentry, GeoBlacklight, and OpenGeoMetadata.
+  </figcaption>
+
+</figure>
