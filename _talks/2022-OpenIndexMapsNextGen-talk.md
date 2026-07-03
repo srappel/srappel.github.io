@@ -8,4 +8,4 @@ date: 2022-10-01
 location: "Minneapolis, MN, US"
 ---
 
-With Emily Thornberry.
+With Evan Thornberry.
